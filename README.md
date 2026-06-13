@@ -13,6 +13,10 @@
 - 📤 **一键发送**：在聊天窗口输入文字后按 Enter 键即可生成图片并发送
 - 📁 **角色管理**：支持添加新角色和上传表情图片
 
+效果如图<img width="565" height="188" alt="image" src="https://github.com/user-attachments/assets/4934e4d6-fe3a-4258-b58d-712615ba537d" />
+
+
+
 ## 快速开始
 
 ### 直接运行
